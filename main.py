@@ -5,7 +5,7 @@ import mysql.connector
 
 # Настройки подключения к базе данных
 db_connection = mysql.connector.connect(
-    host="62.60.149.15",  # IP вашего MySQL сервера
+    host="f1.aurorix.net",  # IP вашего MySQL сервера
     user="u69898_aPM7nxNveE",  # Имя пользователя
     password="vV!85o!PjSZ.iFSShQVzbSaG",  # Пароль
     database="s69898_main"  # Имя базы данных
